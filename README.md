@@ -1,5 +1,5 @@
-# Tanzania_Tourism_Prediction
-Tourist Expenditure Prediction Model
+# Tanzania_Tourism_Prediction:
+Tourist Expenditure Prediction Model:
 INTRODUCTION:
 This project aims to develop a machine learning model that can predict the range of expenditures
 a tourist might incur while visiting Tanzania. The model is intended to assist tour operators and
