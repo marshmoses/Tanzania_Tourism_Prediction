@@ -26,3 +26,4 @@ such as the tourist's country of origin, age group, travel companions,
 purpose of the trip, main activity, information source, tour arrangement, and more.
 Additionally, the dataset includes the total cost of the tour, which serves as the target variable for our prediction model.
 >>>>>>> b4972e1b455c90747ad044ecefece269e8822f6f
+
